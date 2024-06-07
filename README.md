@@ -8,6 +8,7 @@ git commit -m <message>
 git push
 git fetch
 git merge
+git pull
 ```
 
 
