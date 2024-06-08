@@ -32,3 +32,4 @@ git pop
 ==> Using "git checkout" command
 
 Q - Whats is the differance between Simple merge,Squash merge and Rebase merge
+==> not know
