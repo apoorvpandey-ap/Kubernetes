@@ -42,6 +42,9 @@ Q - Whats is the differance between Simple merge,Squash merge and Rebase merge
 6
 7
 8
+9
+10
+
 
 
 
