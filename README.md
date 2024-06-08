@@ -25,6 +25,8 @@ git pop
 ```
 
 
-## How to look at current branch in git
+## How to see at current branch in git
 
 ## how to switch branch in git
+
+Q - Whats is the differance between Simple merge,Squash merge and Rebase merge
