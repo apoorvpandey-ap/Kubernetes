@@ -26,7 +26,9 @@ git pop
 
 
 ## How to see at current branch in git
+==>Git bash and Sourcetree shows it
 
 ## how to switch branch in git
+==> Using "git checkout" command
 
 Q - Whats is the differance between Simple merge,Squash merge and Rebase merge
