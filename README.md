@@ -9,6 +9,7 @@ git push
 git fetch
 git merge
 git pull
+git branch
 ```
 
 
@@ -19,7 +20,6 @@ git rebase
 git cherrypick
 git hotfix
 git blame
-git branch
 git stash
 git pop
 ```
