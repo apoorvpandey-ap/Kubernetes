@@ -38,9 +38,8 @@ git pop
 
 Differene
 
-| #1.Merge | #2.Rebase| #3.Squash |
-| --- | --- | --- |  |
-| Shows two parent,also called simple merge | Shows one parent ,also called fast forward | Shows one parent becuase merge  multiple commet on singe commit |
+## Q. Differance between rebase and merge 
+==>Rebasing rearranges your commits to sit on top of the latest changes, while merging combines the changes of two branches as they are and it have two parent 
 
 ## Q. What is the difference between git pull and git fetch
 ==> Git fetch get a code from remote repository to local repository, **git pull** get the code from remote repository to local file 
