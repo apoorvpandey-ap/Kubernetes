@@ -9,7 +9,7 @@ git push
 git fetch
 git merge
 git pull
-git branch
+git branchhttps://github.com/pulls
 ```
 
 
@@ -79,6 +79,7 @@ Q. What is the difference between git reset and git revert
 33
 34
 
+
 ### Rebase or fast forward merge
 ![rebase](rebase-forward-merge.jpg)
 
@@ -91,3 +92,5 @@ Q. What is the difference between git reset and git revert
 
 ### simple-merge
 ![rebase](simple-merge.jpg)
+=======
+
