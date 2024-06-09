@@ -84,6 +84,11 @@ Git commit will ask for message but git push will not
 32
 33
 34
+35
+36
+37
+38
+
 
 
 ### Rebase or fast forward merge
