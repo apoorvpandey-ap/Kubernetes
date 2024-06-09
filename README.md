@@ -31,8 +31,12 @@ git pop
 ## how to switch branch in git
 ==> Using "git checkout" command
 
-Q - Whats is the differance between Simple merge,Squash merge and Rebase merge
+Q - What is the difference between Simple merge, Squash merge and Rebase merge
 ==> not know
+
+Q. What is the difference between git pull and git fetch
+Q. What is the difference between git commit and git push
+Q. What is the difference between git reset and git revert
 
 1
 2
