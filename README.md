@@ -40,7 +40,7 @@ Differene
 | Shows two parent,also called simple merge | Shows one parent ,also called fast forward | Shows one parent becuase merge  multiple commet on singe commit |
 
 ## Q. What is the difference between git pull and git fetch
-==> Git fetch get a code from remote repository to local repository, **git pull** get the code from local repository to local file 
+==> Git fetch get a code from remote repository to local repository, **git pull** get the code from remote repository to local file 
 
 ## Q. What is the difference between git commit and git push
 ==> Git commit transfer the changes from local file to local repository and git push transfer the changes to local repository to remote repository. 
