@@ -31,16 +31,22 @@ git pop
 ## how to switch branch in git
 ==> Using "git checkout" command
 
-Q - What is the difference between Simple merge, Squash merge and Rebase merge
-==> not know
-Differane| #1.Merge | #2.Rebase| #3.Squash 
---- | --- | --- | --- 
-Between| Shows two parent,also called simple merge | Shows one parnet ,also called fast forward | Shows one parnet becuase merge  multiple commet on singe commit  
-Q. What is the difference between git pull and git fetch
-==> Git fetch get a code from remote repo to local repo, pull the code from local repo to local file ues pull command
-Q. What is the difference between git commit and git push
-==> before push the code to the remote repo we give commit message , so firt commit a message then use push command to send a code from local to remote server 
-Q. What is the difference between git reset and git revert
+## Q - What is the difference between Simple merge, Squash merge and Rebase merge
+
+Differene
+
+| #1.Merge | #2.Rebase| #3.Squash |
+| --- | --- | --- |  |
+| Shows two parent,also called simple merge | Shows one parent ,also called fast forward | Shows one parent becuase merge  multiple commet on singe commit |
+
+## Q. What is the difference between git pull and git fetch
+==> Git fetch get a code from remote repository to local repository, **git pull** get the code from local repository to local file 
+
+## Q. What is the difference between git commit and git push
+==> Git commit transfer the changes from local file to local repository and git push transfer the changes to local repository to remote repository. 
+Git commit will ask for message but git push will not 
+
+## Q. What is the difference between git reset and git revert
 ==> If we got some conflict we use git revert that undo the current changes , dont know about git RESET
 
 1
