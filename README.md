@@ -9,6 +9,8 @@ git push
 git fetch
 git merge
 git pull
+git revert <commit id>
+git reset 
 git branchhttps://github.com/pulls
 ```
 
@@ -16,6 +18,7 @@ git branchhttps://github.com/pulls
 ## un-used command List
 
 ```
+
 git rebase
 git cherrypick
 git hotfix
@@ -47,7 +50,7 @@ Differene
 Git commit will ask for message but git push will not 
 
 ## Q. What is the difference between git reset and git revert
-==> If we got some conflict we use git revert that undo the current changes , dont know about git RESET
+==> Git reset trasfer back changes from stage to local file, Git revert transfer back changes from remote repository to local file 
 
 1
 2
