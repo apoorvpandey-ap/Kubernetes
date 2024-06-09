@@ -69,3 +69,16 @@ Q - Whats is the differance between Simple merge,Squash merge and Rebase merge
 32
 33
 34
+
+### Rebase or fast forward merge
+![rebase](rebase-forward-merge.jpg)
+
+---
+
+### Squash or group commit
+![rebase](squash-or-group-commit.jpg)
+
+---
+
+### simple-merge
+![rebase](simple-merge.jpg)
