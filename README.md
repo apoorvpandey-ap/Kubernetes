@@ -33,10 +33,15 @@ git pop
 
 Q - What is the difference between Simple merge, Squash merge and Rebase merge
 ==> not know
-
+Differane| #1.Merge | #2.Rebase| #3.Squash 
+--- | --- | --- | --- 
+Between| Shows two parent,also called simple merge | Shows one parnet ,also called fast forward | Shows one parnet becuase merge  multiple commet on singe commit  
 Q. What is the difference between git pull and git fetch
+==> Git fetch get a code from remote repo to local repo, pull the code from local repo to local file ues pull command
 Q. What is the difference between git commit and git push
+==> before push the code to the remote repo we give commit message , so firt commit a message then use push command to send a code from local to remote server 
 Q. What is the difference between git reset and git revert
+==> If we got some conflict we use git revert that undo the current changes , dont know about git RESET
 
 1
 2
