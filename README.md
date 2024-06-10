@@ -34,12 +34,19 @@ git pop
 ## how to switch branch in git
 ==> Using "git checkout" command
 
-## Q - What is the difference between Simple merge, Squash merge and Rebase merge
-
-Differene
-
 ## Q. Difference between rebase and merge
-==>Rebasing rearranges your commits to sit on top of the latest changes, while merging combines the changes of two branches as they are and it have two parent
+==>Rebasing rearranges your commits to sit on top of the latest changes
+
+  ### Rebase or fast forward merge
+  ![rebase](rebase-forward-merge.jpg)
+
+  ### simple-merge
+  ![rebase](simple-merge.jpg)
+
+## Q. what is squash or group commit
+  ### Squash or group commit
+  ![rebase](squash-or-group-commit.jpg)
+
 
 ## Q. What is the difference between git pull and git fetch
 ==> Git fetch get a code from remote repository to local repository, **git pull** get the code from remote repository to local file
@@ -50,6 +57,9 @@ Git commit will ask for the message but git push will not
 
 ## Q. What is the difference between git reset and git revert
 ==> Git reset transfer back changes from stage to local file, Git revert transfer back changes from remote repository to local file
+
+
+## Extra
 
 1
 2
@@ -92,19 +102,3 @@ Git commit will ask for the message but git push will not
 38
 39
 40
-
-
-
-### Rebase or fast forward merge
-![rebase](rebase-forward-merge.jpg)
-
----
-
-### Squash or group commit
-![rebase](squash-or-group-commit.jpg)
-
----
-
-### simple-merge
-![rebase](simple-merge.jpg)
-=======
