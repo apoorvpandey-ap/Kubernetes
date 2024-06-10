@@ -58,6 +58,9 @@ Git commit will ask for the message but git push will not
 ## Q. What is the difference between git reset and git revert
 ==> Git reset transfer back changes from stage to local file, Git revert transfer back changes from remote repository to local file
 
+
+## Extra
+
 1
 2
 3
@@ -99,14 +102,3 @@ Git commit will ask for the message but git push will not
 38
 39
 40
-
-
-
-
----
-
-
----
-
-
-=======
